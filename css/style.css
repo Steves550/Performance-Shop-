@@ -151,7 +151,7 @@ p {
 }
 
 #goal .goal-img {
-  background: url('./img/shop.JPG') no-repeat center center/cover;
+  background: url('https://steves550.github.io/Performance-Shop-/img/shop.JPG') no-repeat center center/cover;
   height: 60vh;
   width: 100vh;
 }
